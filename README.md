@@ -1,5 +1,5 @@
 # Data-Structures
-This repository contains Java Programs for implementing and using various data structures. At present the data structures implementd and used are:
+This repository contains Java Programs for implementing and using various data structures. At present the data structures implemented and used are:
 1. Arrays
 2. Linked Lists
 3. Stacks
